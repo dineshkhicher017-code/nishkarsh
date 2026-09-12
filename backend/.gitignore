@@ -1,0 +1,4 @@
+node_modules/
+db/nishkarsh.db
+db/nishkarsh.db-*
+.env

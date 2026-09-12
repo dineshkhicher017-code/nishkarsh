@@ -1,0 +1,7 @@
+node_modules/
+backend/db/nishkarsh.db
+backend/db/nishkarsh.db-shm
+backend/db/nishkarsh.db-wal
+.env
+.env.local
+*.log
